@@ -1,26 +1,5 @@
 const data = [
 	{
-		page_name: "FIN Perfumes",
-		page_link: "https://www.facebook.com/Buy.FIN.perfumes",
-		web: "https://finperfumes.com/",
-		products: [],
-	},
-	{
-		page_name: "Marbel.store",
-		page_link: "https://www.facebook.com/marbel.store.bd/",
-		web: "https://marbel.store/",
-	},
-	{
-		page_name: "Dash Perfumes",
-		page_link: "https://www.facebook.com/dashperfumes",
-		web: "https://dash.com.bd/",
-	},
-	{
-		page_name: "Fragransick",
-		page_link: "https://www.facebook.com/profile.php?id=61567887914547",
-		web: "",
-	},
-	{
 		page_name: "DUFT - The Royal Scent",
 		page_link: "https://www.facebook.com/duftscent",
 		web: "https://duftbd.com/",
@@ -6545,7 +6524,27 @@ const data = [
 			},
 		],
 	},
-
+	{
+		page_name: "FIN Perfumes",
+		page_link: "https://www.facebook.com/Buy.FIN.perfumes",
+		web: "https://finperfumes.com/",
+		products: [],
+	},
+	{
+		page_name: "Marbel.store",
+		page_link: "https://www.facebook.com/marbel.store.bd/",
+		web: "https://marbel.store/",
+	},
+	{
+		page_name: "Dash Perfumes",
+		page_link: "https://www.facebook.com/dashperfumes",
+		web: "https://dash.com.bd/",
+	},
+	{
+		page_name: "Fragransick",
+		page_link: "https://www.facebook.com/profile.php?id=61567887914547",
+		web: "",
+	},
 	{
 		page_name: "Napa Perfumes Bangladesh  ",
 		page_link: "https://www.facebook.com/NapaPerfumesBangladesh",
