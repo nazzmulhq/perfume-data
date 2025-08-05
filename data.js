@@ -1,5 +1,61 @@
 const data = [
 	{
+		page_name: "DUFT - The Royal Scent",
+		page_link: "https://www.facebook.com/duftscent",
+		web: "https://duftbd.com/",
+	},
+	{
+		page_name: "Villa De Fragrance BD",
+		page_link: "https://www.facebook.com/profile.php?id=61552226332549",
+		web: "https://villabd.com/",
+		products: [],
+	},
+	{
+		page_name: "Perfume Emporium",
+		page_link: "https://www.facebook.com/perfumeemporiumbd",
+		web: "https://www.perfumeemporium-bd.com/",
+		products: [],
+	},
+	{
+		page_name: "KP Fragrances",
+		page_link: "https://www.facebook.com/KPFragrances",
+		web: "https://kpfragrances.com/",
+		products: [],
+	},
+	{
+		page_name: "Royal Essence",
+		page_link: "https://www.facebook.com/profile.php?id=61566858406611",
+		web: "https://royalessencebd.com/",
+		products: [],
+	},
+	{
+		page_name: "Perfume House Dhaka",
+		page_link: "https://www.facebook.com/perfumehousdhaka",
+		web: "https://perfumehousedhaka.com/",
+		products: [],
+	},
+	{
+		page_name: "FIN Perfumes",
+		page_link: "https://www.facebook.com/Buy.FIN.perfumes",
+		web: "https://finperfumes.com/",
+		products: [],
+	},
+	{
+		page_name: "Marbel.store",
+		page_link: "https://www.facebook.com/marbel.store.bd/",
+		web: "https://marbel.store/",
+	},
+	{
+		page_name: "Fragransick",
+		page_link: "https://www.facebook.com/profile.php?id=61567887914547",
+		web: "",
+	},
+	{
+		page_name: "Dash Perfumes",
+		page_link: "https://www.facebook.com/dashperfumes",
+		web: "https://dash.com.bd/",
+	},
+	{
 		page_name: "Al-Wahhab ",
 		page_link: "https://www.facebook.com/profile.php?id=61553699101858",
 		web: "",
@@ -5539,17 +5595,6 @@ const data = [
 		page_link: "https://www.facebook.com/profile.php?id=61550835062132",
 		web: "https://unknownaroma.com/",
 		products: [],
-	},
-	{
-		page_name: "Villa De Fragrance BD",
-		page_link: "https://www.facebook.com/profile.php?id=61552226332549",
-		web: "https://villabd.com/",
-		products: [],
-	},
-	{
-		page_name: "Marbel.store",
-		page_link: "https://www.facebook.com/marbel.store.bd/",
-		web: "https://marbel.store/",
 	},
 	{
 		page_name: "Suroor Fragrances",
