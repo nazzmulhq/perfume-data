@@ -1,6 +1,6 @@
 const page = {
-	page_name: "Napa Perfumes Bangladesh  ",
-	page_link: "https://www.facebook.com/NapaPerfumesBangladesh",
-	web: "https://napaperfumes.com/",
+	page_name: "Afnan Perfumes Bangladesh",
+	page_link: "https://www.facebook.com/afnanperfumesbangladesh/",
+	web: "https://www.afnanperfumesbd.com/home",
 	products: [],
 };
