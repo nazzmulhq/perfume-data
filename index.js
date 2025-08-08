@@ -1,6 +1,6 @@
-const page = {
-	page_name: "Afnan Perfumes Bangladesh",
-	page_link: "https://www.facebook.com/afnanperfumesbangladesh/",
-	web: "https://www.afnanperfumesbd.com/home",
-	products: [],
-};
+const page = 	{
+		page_name: "Arabian Shelf",
+		page_link: "https://www.facebook.com/arabianshelf/",
+		web: "https://www.arabianshelf.com/brands",
+		products: [],
+	},;

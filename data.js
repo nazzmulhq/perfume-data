@@ -7573,7 +7573,16 @@ const data = [
 		page_name: "Napa Perfumes Bangladesh  ",
 		page_link: "https://www.facebook.com/NapaPerfumesBangladesh",
 		web: "https://napaperfumes.com/",
-		products: [],
+		products: [
+			{
+				name: "King of Swords- for High Class Men",
+				"30ml": 1499,
+			},
+			{
+				name: "Queen of Hearts- for Vibrant Stylish Women",
+				"30ml": 1499,
+			},
+		],
 	},
 	{
 		page_name: "Unknown Aroma",
@@ -8761,54 +8770,289 @@ const data = [
 		],
 	},
 	{
-		page_name: "Afnan Perfumes Bangladesh",
-		page_link: "https://www.facebook.com/afnanperfumesbangladesh/",
-		web: "https://www.afnanperfumesbd.com/home",
-		products: [],
-	},
-	{
-		page_name: "Arabianoud perfume bd",
-		page_link: "https://www.facebook.com/arabianoudperfumebdcom/",
-		web: "https://arabianoudperfumebd.com/",
-		products: [],
-	},
-	{
 		page_name: "Feriola perfeum ফেরিওলা পারফিউম",
 		page_link: "https://www.facebook.com/feriolaferfume/",
 		web: "https://feriola.xyz/",
-		products: [],
+		products: [
+			{
+				name: "ACQUEA DI GIO",
+				"30ml": 640,
+				"100ml": 2100,
+			},
+			{
+				name: "Arabian Jasmine Perfume",
+				"100ml": 800,
+			},
+			{
+				name: "ARMANY",
+				"30ml": 440,
+				"100ml": 1100,
+			},
+			{
+				name: "AXE Twister",
+				"30ml": 420,
+				"100ml": 1280,
+			},
+			{
+				name: "AXXX Boss 33.9 Pro Perfume",
+				"100ml": 950,
+			},
+			{
+				name: "AZARO MOST WANTED",
+				"100ml": 1380,
+			},
+			{
+				name: "Biscuit Perfume 99",
+				"100ml": 1200,
+			},
+			{
+				name: "Black Fog Smokey Exclusive Perfume",
+				"100ml": 1090,
+			},
+			{
+				name: "BLACK FOGG",
+				"30ml": 440,
+				"100ml": 0,
+			},
+			{
+				name: "BLACK OPIUMS",
+				"30ml": 530,
+				"100ml": 1550,
+			},
+			{
+				name: "BLACK TEASE",
+				"30ml": 420,
+				"100ml": 1390,
+			},
+			{
+				name: "BLUE DE CHANAL 100ml Perfume",
+				"100ml": 1400,
+			},
+			{
+				name: "BLUE LEDY",
+				"100ml": 950,
+			},
+			{
+				name: "BLUE MAN",
+				"30ml": 460,
+				"100ml": 1490,
+			},
+			{
+				name: "BLUE WATER 57.1",
+				"30ml": 440,
+				"100ml": 1200,
+			},
+			{
+				name: "Calvin 1",
+				"30ml": 460,
+				"100ml": 1480,
+			},
+			{
+				name: "Chocolate Flavour Premium Perfume",
+				"100ml": 1350,
+			},
+			{
+				name: "Compound ROYAL MIRAGE The Sultan's Treasure",
+				"100ml": 1550,
+			},
+			{
+				name: "COOL WATER",
+				"30ml": 450,
+				"100ml": 1190,
+			},
+			{
+				name: "CRED AVENTUS",
+				"100ml": 1800,
+			},
+			{
+				name: "CRX LUX 99.9",
+				"30ml": 730,
+				"100ml": 0,
+			},
+			{
+				name: "D-Love 37.1",
+				"100ml": 1100,
+			},
+			{
+				name: "D&G Miracle",
+				"30ml": 980,
+				"100ml": 0,
+			},
+			{
+				name: "Dark Angel Singapore Limited Edition Perfume",
+				"100ml": 1580,
+			},
+			{
+				name: "DE Lemon",
+				"30ml": 860,
+				"100ml": 0,
+			},
+			{
+				name: "DE Orange",
+				"30ml": 750,
+				"100ml": 0,
+			},
+			{
+				name: "DIO SAUVAGE",
+				"30ml": 550,
+				"100ml": 2700,
+			},
+			{
+				name: "DUNHIL FRANCE",
+				"30ml": 400,
+				"100ml": 1190,
+			},
+			{
+				name: "Formula One Man The Bold Aromatic Spirit",
+				"100ml": 1390,
+			},
+			{
+				name: "FROOTI perfume grade",
+				"100ml": 1550,
+			},
+			{
+				name: "GOOD GIRL 3.4",
+				"30ml": 470,
+				"100ml": 1550,
+			},
+			{
+				name: "Green Apple",
+				"100ml": 950,
+			},
+			{
+				name: "GUCI FLORA",
+				"30ml": 450,
+				"100ml": 1200,
+			},
+			{
+				name: "GUL E LALA PAKISTAN Perfume",
+				"100ml": 1100,
+			},
+			{
+				name: "INFINITY",
+				"30ml": 820,
+				"100ml": 0,
+			},
+			{
+				name: "Internal Love Floral Breeze Perfume",
+				"100ml": 1500,
+			},
+			{
+				name: "JOPI Perfume 1 Smoky Leather Burst",
+				"100ml": 1250,
+			},
+			{
+				name: "KASTTURI Mystic Fragrance Perfume",
+				"100ml": 1280,
+			},
+			{
+				name: "Lavender YDY",
+				"30ml": 440,
+				"100ml": 1100,
+			},
+			{
+				name: "MAGNET",
+				"100ml": 980,
+			},
+			{
+				name: "Mix Berry মিক্সবেরি পারফিউম",
+				"30ml": 800,
+				"100ml": 0,
+			},
+			{
+				name: "MOON DROPS PERFUME",
+				"100ml": 1000,
+			},
+			{
+				name: "NIVIEA",
+				"100ml": 1100,
+			},
+			{
+				name: "Old Poison 55.5",
+				"30ml": 400,
+				"100ml": 1100,
+			},
+			{
+				name: "ONE MILION",
+				"30ml": 510,
+				"100ml": 1700,
+			},
+			{
+				name: "Pink Princess 11.5 Perfume",
+				"100ml": 1150,
+			},
+			{
+				name: "Polo Red Edition Ignite Perfume",
+				"100ml": 1690,
+			},
+			{
+				name: "SCARLAT",
+				"30ml": 420,
+				"100ml": 1390,
+			},
+			{
+				name: "SEGMENT OPENZ",
+				"100ml": 1600,
+			},
+			{
+				name: "SHAY OUD",
+				"30ml": 480,
+				"100ml": 1200,
+			},
+			{
+				name: "SMOKING LV",
+				"100ml": 1650,
+			},
+			{
+				name: "SRK",
+				"100ml": 1550,
+			},
+			{
+				name: "TAM DAO",
+				"30ml": 530,
+				"100ml": 1550,
+			},
+			{
+				name: "THE White Musk Citrus & Mint Symphony Perfume",
+				"100ml": 1250,
+			},
+			{
+				name: "Tobacco 2X",
+				"30ml": 450,
+				"100ml": 1150,
+			},
+			{
+				name: "Vampire Blood FRANCE",
+				"100ml": 1220,
+			},
+			{
+				name: "VANILLA Scent",
+				"100ml": 1300,
+			},
+			{
+				name: "VERSEACE EROS",
+				"30ml": 460,
+				"100ml": 1500,
+			},
+			{
+				name: "Water Melon পারফিউম",
+				"30ml": 450,
+				"100ml": 1200,
+			},
+			{
+				name: "X CHILL BLUE",
+				"100ml": 1050,
+			},
+		],
 	},
-	{
-		page_name: "Prada Al oud",
-		page_link: "https://www.facebook.com/pradaaloud/",
-		web: "https://pradaaloud.com/",
-		products: [],
-	},
-	{
-		page_name: "The Heaven Perfume",
-		page_link: "https://www.facebook.com/THEHEAVENPERFUME/",
-		web: "https://aromaelixir.com/",
-		products: [],
-	},
-	{
-		page_name: "Mustahabb Perfume",
-		page_link: "https://www.facebook.com/mustahabbperfume/",
-		web: "https://www.mustahabbperfume.com/",
-		products: [],
-	},
-	{
-		page_name: "Arabian Shelf",
-		page_link: "https://www.facebook.com/arabianshelf/",
-		web: "https://www.arabianshelf.com/brands",
-		products: [],
-	},
+
+	// --------non web--------------
 	{
 		page_name: "SYORA",
 		page_link: "https://www.facebook.com/syoraperfumes/",
 		web: "https://syorabd.com/shop/",
 		products: [],
 	},
-	// --------non web--------------
 	{
 		page_name: "Authentic Perfume",
 		page_link: "https://www.facebook.com/authenticperfume.sks/",
@@ -8840,6 +9084,18 @@ const data = [
 	{
 		page_name: "Perfume City",
 		page_link: "https://www.facebook.com/Perfumeecity/",
+		products: [],
+	},
+	{
+		page_name: "Afnan Perfumes Bangladesh",
+		page_link: "https://www.facebook.com/afnanperfumesbangladesh/",
+		web: "https://www.afnanperfumesbd.com/home",
+		products: [],
+	},
+	{
+		page_name: "Prada Al oud",
+		page_link: "https://www.facebook.com/pradaaloud/",
+		web: "https://pradaaloud.com/",
 		products: [],
 	},
 ];
